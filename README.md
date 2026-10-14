@@ -1,7 +1,9 @@
-# gazapp
+# Legacy repository
 
-Public repository reserved for future reviewed open-source components derived from generic, non-sensitive tooling.
+This repository is not the maintained open-source project and does not distribute current source code.
 
-The production GASLAGER application and its authentication, provisioning, QR/TAN, security, server, signing, customer/installation data and deployment internals are intentionally kept private.
+The canonical public OSS project is:
 
-Nothing from the private project is published here unless it has passed an explicit security, secret, dependency and licensing review and has been decoupled from production-specific behavior.
+https://github.com/ansgarz93-git/Gasapp
+
+Please use that repository for source, issues, pull requests, security information, and maintenance activity.
